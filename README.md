@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aditya Mishra - Portfolio Website
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript. This portfolio showcases my skills, projects, and experience as a Full Stack Developer.
@@ -112,3 +113,6 @@ Aditya Mishra
 - Font Awesome for icons
 - Google Fonts for typography
 - AOS library for scroll animations 
+=======
+# my-potpholioo-
+>>>>>>> d97a6640d77acebae9c682669cbb08a457d1cb91
